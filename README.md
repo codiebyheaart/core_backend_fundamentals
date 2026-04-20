@@ -185,6 +185,10 @@ The API is now live at: **`http://localhost:8080`**
 
 ## API Reference with cURL Examples & Responses
 
+### 📘 Swagger UI Navigation
+You can view and test the interactive API documentation via Swagger UI. Once the app is running, open your browser and navigate to:
+**👉 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)**
+
 ---
 
 ### ✅ POST `/api/kyc` — Create KYC Profile
